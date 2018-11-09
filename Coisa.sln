@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coisa.UI", "Coisa.UI\Coisa.UI.csproj", "{387CC8DC-7A40-4F2E-A153-B6481CA07A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387CC8DC-7A40-4F2E-A153-B6481CA07A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387CC8DC-7A40-4F2E-A153-B6481CA07A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387CC8DC-7A40-4F2E-A153-B6481CA07A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387CC8DC-7A40-4F2E-A153-B6481CA07A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B407884B-E52F-417F-9E81-80553B5DC2CE}
+	EndGlobalSection
+EndGlobal
